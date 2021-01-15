@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Atul Sharma</h1>
 <h3 align="center">A passionate full-stack developer with an interest in React and Nodejs. I have also worked as a professional Angular developer for a startup.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharma-7&label=Profile%20views&color=0e75b6&style=flat" alt="aksharma-7" /> </p>
-
 <p align="left"> <a href="https://twitter.com/thecodingrookie" target="blank"><img src="https://img.shields.io/twitter/follow/thecodingrookie?logo=twitter&style=for-the-badge" alt="thecodingrookie" /></a> </p>
 
 - 🔭 I’m currently working on **projects related to React and Node**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aksharma-7](https://github.com/aksharma-7)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/aksharma-7)
 
-- 📝 I regularly write articles on [https://ak7.hashnode.dev/](https://ak7.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://ak7.hashnode.dev/)
 
 - 💬 Ask me about **React and Node**
 
 - 📫 How to reach me **atulkumar.sharma711@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11vAiUMgWiaJfX9pYDCKELUP00Etk0mR8/view?usp=sharing](https://drive.google.com/file/d/11vAiUMgWiaJfX9pYDCKELUP00Etk0mR8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11vAiUMgWiaJfX9pYDCKELUP00Etk0mR8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
