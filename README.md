@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thecodingrookie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thecodingrookie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/👨%e2%80%8d💻-atul-sharma-306579179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="👨%e2%80%8d💻-atul-sharma-306579179" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aksharma-7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksharma-7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
